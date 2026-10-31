@@ -69,21 +69,21 @@ Total deals tracked: **8**
 
 ### 2026 (1 deals)
 
-| Deal Date | Title | Discount | Expires | Deal Link |
-|---|---|---|---|---|
-| 2026-01-02 | New Year Sale: 25% OFF Any Plan + BOGO Upon Payout | 25% off | Ended | [View Deal](https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-new-year-sale-25-off-bogo-payout/) |
+| Deal Date | Title | Discount | Expires | Event | Deal Link |
+|---|---|---|---|---|---|
+| 2026-01-02 | New Year Sale: 25% OFF Any Plan + BOGO Upon Payout | 25% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-new-year-sale-25-off-bogo-payout/) |
 
 ### 2025 (7 deals)
 
-| Deal Date | Title | Discount | Expires | Deal Link |
-|---|---|---|---|---|
-| 2025-12-30 | End Of Year Flash Sale: 50% OFF $5k and $10k Accounts | 50% off | Ended | [View Deal](https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-end-of-year-flash-sale-50-off-5k-10k/) |
-| 2025-12-08 | Christmas Deal: 20% Off All Plans + Giveaway | 20% off | Ended | [View Deal](https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-christmas-20-off-giveaway/) |
-| 2025-12-04 | Christmas Flash Sale: 30% Off All Plans (Limited Time) | 30% off | Ended | [View Deal](https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-christmas-flash-sale-30-off/) |
-| 2025-12-01 | Cyber Monday Offer: 30% OFF + Triple Rewards | 30% off | Ended | [View Deal](https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-cyber-monday-30-off-triple-rewards/) |
-| 2025-11-25 | Black Friday Deal: 30% Off + Triple Rewards | 30% off | Ended | [View Deal](https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-black-friday-triple-rewards-30-off/) |
-| 2025-11-04 | 15% OFF — November Hot Deal on 1-Step & 2-Step Challenges | 15% off | Ended | [View Deal](https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-15-off-november-hot-deal-1-step-2-step/) |
-| 2025-10-20 | 50% OFF Flash Sale (Oct 19–21, 2025) — $5K & $10K Only | 50% off | Ended | [View Deal](https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-50-off-flash-sale-oct-19-21-2025-5k-10k-only/) |
+| Deal Date | Title | Discount | Expires | Event | Deal Link |
+|---|---|---|---|---|---|
+| 2025-12-30 | End Of Year Flash Sale: 50% OFF $5k and $10k Accounts | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-end-of-year-flash-sale-50-off-5k-10k/) |
+| 2025-12-08 | Christmas Deal: 20% Off All Plans + Giveaway | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-christmas-20-off-giveaway/) |
+| 2025-12-04 | Christmas Flash Sale: 30% Off All Plans (Limited Time) | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-christmas-flash-sale-30-off/) |
+| 2025-12-01 | Cyber Monday Offer: 30% OFF + Triple Rewards | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-cyber-monday-30-off-triple-rewards/) |
+| 2025-11-25 | Black Friday Deal: 30% Off + Triple Rewards | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-black-friday-triple-rewards-30-off/) |
+| 2025-11-04 | 15% OFF — November Hot Deal on 1-Step & 2-Step Challenges | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-15-off-november-hot-deal-1-step-2-step/) |
+| 2025-10-20 | 50% OFF Flash Sale (Oct 19–21, 2025) — $5K & $10K Only | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-50-off-flash-sale-oct-19-21-2025-5k-10k-only/) |
 
 ---
 
@@ -110,6 +110,7 @@ links are appended after, in the order below.
 | `scope` | What the deal covers. |
 | `date_published` | The date this deal went live. |
 | `date_exp` | Expiry as the site states it: an ISO date, `Limited time`, or `Ended`. |
+| `event` | The seasonal campaign this deal was tagged with on the site (`Halloween`, `Black Friday`), or `null` when it belongs to no event. The event never changes what the deal is worth — it names the occasion the deal was run for. |
 | `last_verified` | The date this deal's details were last checked. |
 | `post_url` | This deal's page on PropFirmDiscount. A deal carrying its own campaign code shows that code there. |
 | `prop_firm` | Firm name. |
