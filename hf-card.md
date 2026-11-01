@@ -19,7 +19,7 @@ tags:
 
 # Seacrest Markets Discount Code
 
-As of 2026-01-02, the verified Seacrest Markets discount code is **jackichun** — up to 5% OFF, works any time. Its current deals run their own limited-time campaign codes.
+As of 2026-01-02, the verified Seacrest Markets discount code is jackichun — up to 5% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
 > At Seacrest Markets, speed meets reliability.
 > We deliver ultra-fast execution, tight spreads, and dynamic leverage up to 500:1 on MetaTrader 5.
