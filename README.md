@@ -1,6 +1,6 @@
 # Seacrest Markets - Discount Codes & Deal History
 
-As of 2026-01-02, the verified Seacrest Markets discount code is jackichun — up to 5% OFF, works any time. Its current deals run their own limited-time campaign codes.
+As of 2026-11, the verified Seacrest Markets discount code is jackichun — 5% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
 > At Seacrest Markets, speed meets reliability.
 > We deliver ultra-fast execution, tight spreads, and dynamic leverage up to 500:1 on MetaTrader 5.
@@ -10,7 +10,7 @@ As of 2026-01-02, the verified Seacrest Markets discount code is jackichun — u
 > — Seacrest Markets, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/myfundedfx.com)
 
 - Code: jackichun
-- Discount: Up to 5% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Discount: 5% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-01-02
 - Trustpilot: 4.2/5 (2873 reviews)
@@ -33,7 +33,7 @@ As of 2026-01-02, the verified Seacrest Markets discount code is jackichun — u
 
 **What is the Seacrest Markets discount code?**
 
-jackichun. It is verified by PropFirmDiscount.com and takes up to 5% off Seacrest Markets challenges and accounts.
+jackichun. It is verified by PropFirmDiscount.com and takes 5% off Seacrest Markets challenges and accounts.
 
 **Does the Seacrest Markets discount code expire?**
 
@@ -53,19 +53,19 @@ Total deals tracked: **8**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-01-02 | New Year Sale: 25% OFF Any Plan + BOGO Upon Payout | 25% off | Ended | New Year's Eve | [View Deal](https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-new-year-sale-25-off-bogo-payout/) |
+| 2026-01-02 | Seacrest Markets: New Year Sale: 25% OFF Any Plan + BOGO Upon Payout | 25% off | Ended | New Year's Eve | [View Deal](https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-new-year-sale-25-off-bogo-payout/) |
 
 ### 2025 (7 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2025-12-30 | End Of Year Flash Sale: 50% OFF $5k and $10k Accounts | 50% off | Ended | New Year's Eve | [View Deal](https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-end-of-year-flash-sale-50-off-5k-10k/) |
-| 2025-12-08 | Christmas Deal: 20% Off All Plans + Giveaway | 20% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-christmas-20-off-giveaway/) |
-| 2025-12-04 | Christmas Flash Sale: 30% Off All Plans (Limited Time) | 30% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-christmas-flash-sale-30-off/) |
-| 2025-12-01 | Cyber Monday Offer: 30% OFF + Triple Rewards | 30% off | Ended | Cyber Monday | [View Deal](https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-cyber-monday-30-off-triple-rewards/) |
-| 2025-11-25 | Black Friday Deal: 30% Off + Triple Rewards | 30% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-black-friday-triple-rewards-30-off/) |
-| 2025-11-04 | 15% OFF — November Hot Deal on 1-Step & 2-Step Challenges | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-15-off-november-hot-deal-1-step-2-step/) |
-| 2025-10-20 | 50% OFF Flash Sale (Oct 19–21, 2025) — $5K & $10K Only | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-50-off-flash-sale-oct-19-21-2025-5k-10k-only/) |
+| 2025-12-30 | Seacrest Markets: End Of Year Flash Sale: 50% OFF $5k and $10k Accounts | 50% off | Ended | New Year's Eve | [View Deal](https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-end-of-year-flash-sale-50-off-5k-10k/) |
+| 2025-12-08 | Seacrest Markets: Christmas Deal: 20% Off All Plans + Giveaway | 20% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-christmas-20-off-giveaway/) |
+| 2025-12-04 | Seacrest Markets: Christmas Flash Sale: 30% Off All Plans (Limited Time) | 30% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-christmas-flash-sale-30-off/) |
+| 2025-12-01 | Seacrest Markets: Cyber Monday Offer: 30% OFF + Triple Rewards | 30% off | Ended | Cyber Monday | [View Deal](https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-cyber-monday-30-off-triple-rewards/) |
+| 2025-11-25 | Seacrest Markets: Black Friday Deal: 30% Off + Triple Rewards | 30% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-black-friday-triple-rewards-30-off/) |
+| 2025-11-04 | Seacrest Markets: 15% OFF — November Hot Deal on 1-Step & 2-Step Challenges | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-15-off-november-hot-deal-1-step-2-step/) |
+| 2025-10-20 | Seacrest Markets: 50% OFF Flash Sale (Oct 19–21, 2025) — $5K & $10K Only | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-50-off-flash-sale-oct-19-21-2025-5k-10k-only/) |
 
 ---
 
