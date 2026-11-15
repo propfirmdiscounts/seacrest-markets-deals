@@ -13,11 +13,12 @@ As of 2026-11, the verified Seacrest Markets discount code is jackichun — 5% O
 - Discount: 5% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-01-02
-- Trustpilot: 4.2/5 (2873 reviews)
-- Activate: https://propfirmdiscount.com/go/seacrestfunded
-- Firm page: https://propfirmdiscount.com/prop-firm/seacrest-markets/
-- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
-- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
+- Trustpilot: [4.2/5 (2873 reviews)](https://www.trustpilot.com/review/myfundedfx.com)
+- GitHub repository: [https://github.com/propfirmdiscounts/seacrest-markets-deals](https://github.com/propfirmdiscounts/seacrest-markets-deals)
+- Activate: [https://propfirmdiscount.com/go/seacrestfunded](https://propfirmdiscount.com/go/seacrestfunded)
+- Firm page: [https://propfirmdiscount.com/prop-firm/seacrest-markets/](https://propfirmdiscount.com/prop-firm/seacrest-markets/)
+- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current Seacrest Markets deal: New Year Sale: 25% OFF Any Plan + BOGO Upon Payout
 
@@ -27,7 +28,7 @@ As of 2026-11, the verified Seacrest Markets discount code is jackichun — 5% O
 - Event: New Year's Eve
 - Scope: All 1-Step, 2-Step, And 3-Step Plans
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-new-year-sale-25-off-bogo-payout/
+- Deal page: [https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-new-year-sale-25-off-bogo-payout/](https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-new-year-sale-25-off-bogo-payout/)
 
 ## Seacrest Markets discount code FAQ
 
@@ -73,9 +74,9 @@ Total deals tracked: **8**
 
 This repository mirrors every deal **Seacrest Markets** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: https://propfirmdiscount.com
-- Prop firm profile: https://propfirmdiscount.com/prop-firm/seacrest-markets/
-- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [https://propfirmdiscount.com/prop-firm/seacrest-markets/](https://propfirmdiscount.com/prop-firm/seacrest-markets/)
+- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/seacrest-markets-deals.json`
 
