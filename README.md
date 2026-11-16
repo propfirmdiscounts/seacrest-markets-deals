@@ -1,6 +1,6 @@
 # Seacrest Markets - Discount Codes & Deal History
 
-As of November 2026, the verified Seacrest Markets discount code is jackichun — 5% OFF, which can be applied on the checkout page anytime. Its current deals run their own limited-time campaign codes.
+As of November 2026, the verified Seacrest Markets discount code is jackichun — 5% OFF, which can be applied on the checkout page anytime. The newest is "New Year Sale: 25% OFF Any Plan + BOGO Upon Payout".
 
 > At Seacrest Markets, speed meets reliability.
 > We deliver ultra-fast execution, tight spreads, and dynamic leverage up to 500:1 on MetaTrader 5.
@@ -14,11 +14,11 @@ As of November 2026, the verified Seacrest Markets discount code is jackichun �
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-01-02
 - Trustpilot: [4.2/5 (2873 reviews)](https://www.trustpilot.com/review/myfundedfx.com)
-- GitHub repository: [https://github.com/propfirmdiscounts/seacrest-markets-deals](https://github.com/propfirmdiscounts/seacrest-markets-deals)
-- Activate: [https://propfirmdiscount.com/go/seacrestfunded](https://propfirmdiscount.com/go/seacrestfunded)
-- Firm page: [https://propfirmdiscount.com/prop-firm/seacrest-markets/](https://propfirmdiscount.com/prop-firm/seacrest-markets/)
-- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
-- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
+- GitHub repository: [Seacrest Markets Deals Repository](https://github.com/propfirmdiscounts/seacrest-markets-deals)
+- Activate: [Activate Seacrest Markets Discount Code](https://propfirmdiscount.com/go/seacrestfunded)
+- Firm page: [Seacrest Markets Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/seacrest-markets/)
+- Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [Seacrest Markets API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current Seacrest Markets deal: New Year Sale: 25% OFF Any Plan + BOGO Upon Payout
 
@@ -28,7 +28,7 @@ As of November 2026, the verified Seacrest Markets discount code is jackichun �
 - Event: New Year's Eve
 - Scope: All 1-Step, 2-Step, And 3-Step Plans
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: [https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-new-year-sale-25-off-bogo-payout/](https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-new-year-sale-25-off-bogo-payout/)
+- Deal page: [Seacrest Markets Deal Page](https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-new-year-sale-25-off-bogo-payout/)
 
 ## Seacrest Markets discount code FAQ
 
@@ -74,9 +74,9 @@ Total deals tracked: **8**
 
 This repository mirrors every deal **Seacrest Markets** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
-- Prop firm profile: [https://propfirmdiscount.com/prop-firm/seacrest-markets/](https://propfirmdiscount.com/prop-firm/seacrest-markets/)
-- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Data source: [PropFirmDiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [Seacrest Markets Profile](https://propfirmdiscount.com/prop-firm/seacrest-markets/)
+- All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/seacrest-markets-deals.json`
 
@@ -119,4 +119,4 @@ file is the `Last deal published` value above.
 
 ## License
 
-Data © PropFirmDiscount. Codes may be referenced with attribution and a link to https://propfirmdiscount.com.
+Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
