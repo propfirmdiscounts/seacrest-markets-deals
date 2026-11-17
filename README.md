@@ -1,4 +1,4 @@
-# Seacrest Markets Discount Code & Deal History
+# Seacrest Markets Discount Code, Deals History & Dataset
 
 As of November 2026, the verified Seacrest Markets discount code is jackichun â€” 5% OFF, which can be applied on the checkout page anytime. The newest is "New Year Sale: 25% OFF Any Plan + BOGO Upon Payout".
 
@@ -14,7 +14,7 @@ As of November 2026, the verified Seacrest Markets discount code is jackichun â€
 - Valid: Standing code â€” no published expiry date
 - Last deal published: 2026-01-02
 - Trustpilot: [4.2/5 (2873 reviews)](https://www.trustpilot.com/review/myfundedfx.com)
-- GitHub repository: [Seacrest Markets Deals Repository](https://github.com/propfirmdiscounts/seacrest-markets-deals)
+- GitHub repository: [Seacrest Markets Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/seacrest-markets-deals)
 - Activate: [Activate Seacrest Markets Discount Code](https://propfirmdiscount.com/go/seacrestfunded)
 - Firm page: [Seacrest Markets Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/seacrest-markets/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
@@ -30,7 +30,7 @@ As of November 2026, the verified Seacrest Markets discount code is jackichun â€
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: [Seacrest Markets Deal Page](https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-new-year-sale-25-off-bogo-payout/)
 
-## Seacrest Markets Discount Code & Deals FAQ
+## Seacrest Markets Discount Code & Deals History FAQ
 
 **What is the Seacrest Markets discount code?**
 
@@ -46,7 +46,7 @@ No. It is a standing code â€” there is no start date and no end date. Promotiona
 
 ---
 
-## Seacrest Markets Deal History
+## Seacrest Markets Deals History
 
 Total deals tracked: **8**
 
@@ -70,7 +70,7 @@ Total deals tracked: **8**
 
 ---
 
-## About the Seacrest Markets Deals Dataset
+## About the Seacrest Markets Discount Code & Deals History Dataset
 
 This repository mirrors every deal **Seacrest Markets** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -78,7 +78,7 @@ This repository mirrors every deal **Seacrest Markets** has published on PropFir
 - Prop firm profile: [Seacrest Markets Profile](https://propfirmdiscount.com/prop-firm/seacrest-markets/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Seacrest Markets Deal Dataset: Field Definitions
+## Seacrest Markets Deals History Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the

@@ -1,4 +1,4 @@
-# Seacrest Markets Discount Codes
+# Seacrest Markets Discount Code & Deals History
 
 This dataset tracks historical deal observations for Seacrest Markets from PropFirmDiscount.com.
 
