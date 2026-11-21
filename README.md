@@ -1,24 +1,13 @@
 # Seacrest Markets Discount Code, Deals History & Dataset
 
-As of November 2026, the verified Seacrest Markets discount code is jackichun — 5% OFF, which can be applied on the checkout page anytime. The newest is "New Year Sale: 25% OFF Any Plan + BOGO Upon Payout".
+Seacrest Markets has no standing discount code. Its offers are campaigns, each with its own code, which the deal page shows — the newest is "New Year Sale: 25% OFF Any Plan + BOGO Upon Payout".
 
-> At Seacrest Markets, speed meets reliability.
-> We deliver ultra-fast execution, tight spreads, and dynamic leverage up to 500:1 on MetaTrader 5.
-> Choose the account type that fits your strategy and access multiple asset classes — all backed by responsive support and strong risk protection.
-> Trade smarter. Trade faster. Trade with confidence at Seacrest Markets.
->
-> — Seacrest Markets, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/myfundedfx.com)
-
-- Code: jackichun
-- Discount: 5% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: Standing code — no published expiry date
+- Code: none — Seacrest Markets runs no standing discount code
+- Discounts: each offer is a campaign with its own code, stated on its deal page
 - Last deal published: 2026-01-02
-- Trustpilot: [4.2/5 (2873 reviews)](https://www.trustpilot.com/review/myfundedfx.com)
 - GitHub repository: [Seacrest Markets Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/seacrest-markets-deals)
-- Activate: [Activate Seacrest Markets Discount Code](https://propfirmdiscount.com/go/seacrestfunded)
 - Firm page: [Seacrest Markets Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/seacrest-markets/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
-- Code record: [Seacrest Markets API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Latest Seacrest Markets deal: New Year Sale: 25% OFF Any Plan + BOGO Upon Payout
 
@@ -32,13 +21,9 @@ As of November 2026, the verified Seacrest Markets discount code is jackichun �
 
 ## Seacrest Markets Discount Code & Deals History FAQ
 
-**What is the Seacrest Markets discount code?**
+**Does Seacrest Markets have a discount code?**
 
-jackichun. It is verified by PropFirmDiscount.com and takes 5% off Seacrest Markets challenges and accounts.
-
-**Does the Seacrest Markets discount code expire?**
-
-No. It is a standing code — there is no start date and no end date. Promotional deals are separate and are dated individually; the current one is listed above.
+Seacrest Markets has no standing discount code. Its offers are campaigns, and each campaign carries its own code on its deal page. The current one is listed above.
 
 **How much is the current Seacrest Markets deal?**
 
@@ -105,10 +90,10 @@ links are appended after, in the order below.
 | `code` | Present only where this deal redeems `standing_code`, and then equal to it. Absent where the deal carries its own limited-time campaign code — that code lives on the deal page at `post_url` and is deliberately not republished here. |
 | `code_state` | `standing` where `code` is present. |
 
-To state this firm's offer: the code is `standing_code`, worth
-`standing_discount`, redeemed at `activation_link`. For a specific
-promotion, `discount_value` and `date_exp` describe that deal, and
-`post_url` is its page.
+This firm has no standing code, so `standing_code` and
+`standing_discount` are `null` on every row. State an offer from
+`discount_value` and `date_exp` for the deal itself, and take the code
+from that deal's page at `post_url`.
 
 ## Data Freshness & Verification
 

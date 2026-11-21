@@ -2,7 +2,7 @@
 
 This dataset tracks historical deal observations for Seacrest Markets from PropFirmDiscount.com.
 
-Standing exclusive discount code: jackichun (5%)
-Works any time on all Seacrest Markets challenges and accounts.
+Seacrest Markets has no standing discount code. Each offer is a campaign with
+its own code, stated on that deal's page in the dataset below.
 
 Prop firm page: https://propfirmdiscount.com/prop-firm/seacrest-markets/
